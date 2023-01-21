@@ -1,0 +1,30 @@
+
+
+:root {
+    --main-background-color: #4d4a50;
+    --width: 50px;
+    --height: 100px;
+    --border-radius: 50px;
+    --text-color: #331a00;
+    --padding: 50px;
+    --font-size: 2rem;
+}
+
+
+
+body {
+    
+    background-color: var(--main-background-color);
+    color: var(--text-color);
+    font-size: var(--font-size);
+    
+}
+
+.ball {
+    width: var(--width);
+    height: var(--height);
+    background-color:#ff8800;
+    border-radius: var(--border-radius);
+    padding: var(--padding);
+    font-size: var(--font-size);
+}
