@@ -3,7 +3,12 @@ body {
     margin: 0 auto;
   }
   
+  section {
+    padding: 2em;
+    margin: 1em;
   
+    
+  }
   
   #green {
     background-color: #8ffda7;
@@ -15,9 +20,6 @@ body {
   
   #yellow {
     background-color: #ffff92;
-   
-   
-  
   }
   
   #red {
@@ -30,7 +32,6 @@ body {
   
   ul {
     padding: 0;
-   
   }
   
   li {
